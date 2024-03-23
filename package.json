@@ -1,0 +1,32 @@
+{
+  "name": "bulk-sms-api",
+  "version": "1.0.0",
+  "description": "bulk-SMS is a module for use of bulk-SMS service for sending text messages",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upinfor/node-bulk-sms-api.git"
+  },
+  "keywords": [
+    "sms",
+    "bulk",
+    "message",
+    "send"
+  ],
+  "author": "@ruialmeida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upinfor/node-bulk-sms-api"
+  },
+  "homepage": "https://github.com/upinfor/node-bulk-sms-api#readme",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
