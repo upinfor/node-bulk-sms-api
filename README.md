@@ -1,14 +1,8 @@
 # node-bulk-sms-api
-node-bulk-sms-api is a module for use of bulk-SMS service for sending text messages using the bulk sms service (http://www.bulksms.com/)
-
-# Install
-```javascript
-npm install node-bulk-sms-api 
-```
+node-bulk-sms-api is a module for use of bulk-SMS service for sending text messages using the bulk sms service (http://www.bulksms.com/) 
 
 # Usage
-```javascript
-var bulk = require('node-bulk-sms');
+var bulk = require('your folder/bin/Bulk.js');
 
 bulk.setUsername('your username');
 bulk.setPassword('your password');
